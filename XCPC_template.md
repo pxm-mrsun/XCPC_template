@@ -6467,7 +6467,7 @@ namespace LCT
 	int ch[N][2], fa[N], stk[N], rev[N];
 #define ls(x) ch[x][0]
 #define rs(x) ch[x][1]
-	// extend
+
 	int val[N], sum[N];
 	//extend
 	int mx[N];
